@@ -1,3 +1,9 @@
+##screenshot
+
+![Dashboard](career-navigator-1.png)
+
+![Dashboard](career-navigator-2.png)
+
 # 🚀 AI Career Navigator
 
 *By Kirthika | AI & Data Science Student*
